@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/embud/static/css/main.1a3d85d1.css",
+    "main.js": "/embud/static/js/main.6f9a0039.js",
+    "static/media/people.png": "/embud/static/media/people.d40f77466c2b83e30b56.png",
+    "static/media/turn-key.jpg": "/embud/static/media/turn-key.15176fcaa945ece03535.jpg",
+    "static/media/kalk.jpg": "/embud/static/media/kalk.5a4a6662126e6d21575d.jpg",
+    "static/media/serv_home.jpg": "/embud/static/media/serv_home.c3f6b63dfff1adbca899.jpg",
+    "static/media/city_light.jpg": "/embud/static/media/city_light.fd9c383c4012e52430ae.jpg",
+    "static/media/key_ph.jpg": "/embud/static/media/key_ph.874591d1f0d91743a9f7.jpg",
+    "static/media/embud_logo.png": "/embud/static/media/embud_logo.b77336d0ed588d02db47.png",
+    "static/media/logo_lamp.jpg": "/embud/static/media/logo_lamp.1aa363c9115777574f56.jpg",
+    "static/media/contact.png": "/embud/static/media/contact.e96b5b96ac642dbdc8cf.png",
+    "static/media/torcen1.jpg": "/embud/static/media/torcen1.fcec89d55e66fec374f8.jpg",
+    "static/media/kiywst.png": "/embud/static/media/kiywst.bcaa187f23ab5df07fd9.png",
+    "static/media/warszawa1.jpg": "/embud/static/media/warszawa1.daa4ae281fc8e0a04e57.jpg",
+    "static/media/tetris.jpg": "/embud/static/media/tetris.e3c443cdb393128c586d.jpg",
+    "static/media/estimation.jpg": "/embud/static/media/estimation.659ad004cdccb7208d81.jpg",
+    "static/media/city.jpg": "/embud/static/media/city.94b5585784c18c25d99b.jpg",
+    "static/media/Business.png": "/embud/static/media/Business.36134ea951692d640244.png",
+    "static/media/embud_logoV2.jpg": "/embud/static/media/embud_logoV2.47d24989fad789dbd469.jpg",
+    "static/media/1+1.png": "/embud/static/media/1+1.9e1fcca9d2b5f52f681c.png",
+    "static/media/med.png": "/embud/static/media/med.eb7e3add92e4d5663752.png",
+    "static/media/nophoto.jpg": "/embud/static/media/nophoto.2efe78cdf6dbf909f571.jpg",
+    "index.html": "/embud/index.html",
+    "main.1a3d85d1.css.map": "/embud/static/css/main.1a3d85d1.css.map",
+    "main.6f9a0039.js.map": "/embud/static/js/main.6f9a0039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3d85d1.css",
+    "static/js/main.6f9a0039.js"
+  ]
+}
